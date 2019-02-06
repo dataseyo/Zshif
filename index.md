@@ -1,6 +1,5 @@
 <center><font size="50">Zachary Shifrel</font></center>
-
-
+<!DOCTYPE html>
 <style>
     body {
       margin: 2em auto;
@@ -12,7 +11,7 @@
       color: red;
       font-family: Georgia, "Times New Roman", serif;
       }
-    </style>
+ </style>
 
 <body>
 ## Research
