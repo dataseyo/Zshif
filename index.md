@@ -1,6 +1,6 @@
 <center><font size="50">Zachary Shifrel</font></center>
 
-Logo: <img src="pic4.jpg" alt="hi" class="inline" height="500" width="491"/>
+Logo: [<img src="pic4.jpg" alt="hi" class="inline" height="500" width="491"/>]
 
 
 ### Markdown
