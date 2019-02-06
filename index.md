@@ -4,7 +4,7 @@
 ## Research
 I'm interested primarily in philosophy of physics, philosophy of science more generally, climate science, and social epistemology. My research currently involves:
 - extending effective realism into the domain of QFT in curved spacetime. 
-- carefully examining what philosophical work fields like numerical relativity can be made to do. They've traditionally been neglected as "tools that facilitate computation," but I think that Mark Wilson and others have made a good case for taking physics avoidance (and what facilitates it) seriously when interpreting, representating, and just thinking about theories.
+- carefully examining what philosophical work fields like numerical relativity can be made to do. They've traditionally been neglected as "tools that facilitate computation," but I think that Mark Wilson and others have made a good case for taking physics avoidance (and what facilitates it) seriously when interpreting, representating, and just thinking about theories. After all, such fields heavily contribute to the content of our theories: the field equations, when unsolved, aren't very useful.
 - formulating a realism that both makes salient and takes advantage of the unique epistemic position we're in with respect to some contemporary theories; also, cashing out what exactly it means and looks like to be in a better epistemic position wrt. one theory than another.  
 
 In  the future, I hope to work on:
