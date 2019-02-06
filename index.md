@@ -12,6 +12,8 @@ A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/re
 
 **Numerical Relativity:** 
 
+**EUGENE:** [Dynamical Kinds](https://github.com/jantzen/eugene)
+
 
 ## What else?
 
