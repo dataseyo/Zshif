@@ -1,17 +1,11 @@
 <center><font size="50">Zachary Shifrel</font></center>
+
 ```markdown
 My research interests are primarily in philosophy of physics, climate science, and social epistemology. 
 
-
-
-
-
-
-
-
-
-
 ```
+
+
 
 ```markdown
 Numerical Relativity:
