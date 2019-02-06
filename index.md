@@ -9,18 +9,8 @@ A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.
 A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/read/ysyfnnqpzwsr)
 
 ## Projects
-```markdown
-Numerical Relativity:
 
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**Numerical Relativity:** 
 
 
 ## What else?
