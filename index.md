@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+Zachary Shifrel
 
-<img src="pic1.jpg" alt="hi" class="inline"/>
+<img src="pic3.jpg" alt="hi" class="inline"/>
 
 
 ### Markdown
