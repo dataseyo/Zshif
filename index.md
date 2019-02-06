@@ -1,6 +1,16 @@
 <center><font size="50">Zachary Shifrel</font></center>
 ```
 My research interests are primarily in philosophy of physics, climate science, and social epistemology. 
+
+
+
+
+
+
+
+
+
+
 ```
 
 ```markdown
