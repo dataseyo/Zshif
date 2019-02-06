@@ -6,6 +6,9 @@
 My research interests are primarily in philosophy of physics, climate science, and social epistemology. 
 
 I 
+
+
+
 ```
 
 
@@ -22,6 +25,23 @@ Numerical Relativity:
 
 [Link](url) and ![Image](src)
 ```
+
+## What else?
+```markdown
+
+.
+.
+.
+.
+.
+.
+.
+...........
+
+
+
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
