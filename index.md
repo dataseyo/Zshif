@@ -1,6 +1,6 @@
 Zachary Shifrel
 
-<img src="pic4.jpg" alt="hi" class="inline", height="600", width="591"/>
+<img src="pic4.jpg" alt="hi" class="inline", height=600, width=591/>
 
 
 ### Markdown
