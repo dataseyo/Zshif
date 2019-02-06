@@ -1,9 +1,6 @@
 <center><font size="50">Zachary Shifrel</font></center>
 
-Logo: 
-
-<img src="pic4.jpg" alt="hi" class="inline" height="500" width="491"/>
-
+My research interests are primarily in philosophy of physics, climate science, and social epistemology. 
 
 ### Markdown
 
