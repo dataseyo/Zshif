@@ -8,8 +8,6 @@ My research interests are primarily in philosophy of physics, climate science,
 and social epistemology. 
 
 Here's a poster I presented at the PSA 2018: 
-[Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
-
 ```
 [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
 
