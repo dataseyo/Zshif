@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<img src="pic1.jpg" alt="hi" class="inline"/>
+
 
 ### Markdown
 
