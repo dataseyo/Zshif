@@ -7,7 +7,10 @@ I'm interested primarily in philosophy of physics, philosophy of science more ge
 - carefully examining what philosophical work fields like numerical relativity can be made to do. They've traditionally been neglected as "tools that facilitate computation," but I think that Mark Wilson and others have made a good case for taking physics avoidance (and what facilitates it) seriously when interpreting, representating, and just thinking about theories.
 - formulating a realism that both makes salient and takes advantage of the unique epistemic position we're in with respect to some contemporary theories; also, cashing out what exactly it means and looks like to be in a better epistemic position wrt. one theory than another.  
 
+In  the future, I hope to work on:
 
+- making the notion of 'robustness' more rigorous across the physical sciences, especially in QFT and stochastic/ensemble climate models.
+- studying the behavior of laypeople and experts in discourse about some technical domain like climate science. 
 
 
 A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
