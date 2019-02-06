@@ -32,7 +32,7 @@ I speak Korean and Japanese conversationally and somewhat professionally (though
 
  
 ```markdown
-
+Email: hanguk@vt.edu
 ```
 
 
