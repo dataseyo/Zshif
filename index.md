@@ -13,7 +13,7 @@ In  the future, I hope to work on:
 - making the notion of *robustness* more rigorous across the physical sciences, especially in QFT and stochastic/ensemble climate models.
 - making sense of what *an ontology indexed to scales* (or, per Ladyman, a *scale-relative ontology*) is supposed to mean, if there is sense to be made of it. 
 - studying the behavior of laypeople and experts in discourse about some technical domain like climate science. 
-
+- teasing out the physical significance of the large D limit of general relativity. 
 
 A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
 
