@@ -9,7 +9,7 @@ and social epistemology.
 
 Here's a poster I presented at the PSA 2018: [Structural Realism](Zshif/SR pres.pdf)
       
-<a href="help/">pdf</a>
+<a href="pdf/">pdf</a>
 
 
 ```
