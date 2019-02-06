@@ -1,19 +1,7 @@
 <center><font size="50">Zachary Shifrel</font></center>
-<!DOCTYPE html>
-<style>
-    body {
-      margin: 2em auto;
-      width: 90%;
-      max-width: 30em;
-      font-family: Verdana, Helvetica, sans-serif;
-      }
-    p {
-      color: red;
-      font-family: Georgia, "Times New Roman", serif;
-      }
- </style>
 
-<body>
+
+
 ## Research
 I'm interested primarily in philosophy of physics, philosophy of science more generally, climate science, and social epistemology. My research currently involves:
 - extending effective realism into the domain of QFT in curved spacetime. 
@@ -42,7 +30,7 @@ A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/re
 
 I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules in python and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. 
 
- </body>
+ 
 ```markdown
 
 ```
