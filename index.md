@@ -1,4 +1,4 @@
-<font size="20"><center>Zachary Shifrel</center></font>
+<font size="50"><center>Zachary Shifrel</center></font>
 
 <img src="pic4.jpg" alt="hi" class="inline" height="500" width="491"/>
 
