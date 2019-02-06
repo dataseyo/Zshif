@@ -9,7 +9,8 @@ I'm interested primarily in philosophy of physics, philosophy of science more ge
 
 In  the future, I hope to work on:
 
-- making the notion of 'robustness' more rigorous across the physical sciences, especially in QFT and stochastic/ensemble climate models.
+- making the notion of *robustness* more rigorous across the physical sciences, especially in QFT and stochastic/ensemble climate models.
+- making sense of what *an ontology indexed to scales* (or, per Ladyman, a *scale-relative ontology*) is supposed to mean, if there is sense to be made of it. 
 - studying the behavior of laypeople and experts in discourse about some technical domain like climate science. 
 
 
