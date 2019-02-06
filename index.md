@@ -1,4 +1,4 @@
-Zachary Shifrel
+<center>##Zachary Shifrel</center>
 
 <img src="pic4.jpg" alt="hi" class="inline" height="500" width="491"/>
 
