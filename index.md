@@ -2,7 +2,12 @@
 
 
 ## Research
-My research interests are primarily in philosophy of physics, climate science, and social epistemology.
+I'm interested primarily in philosophy of physics, philosophy of science more generally, climate science, and social epistemology. My research currently involves:
+- extending Porter Williams' project of effective realism into the domain of QFT in curved spacetime. 
+- carefully examining what philosophical work fields like numerical relativity can be made to do. They've traditionally been neglected as "tools that facilitate computation," but I think that Mark Wilson and others have made a good case for taking physics avoidance (and what facilitates it) seriously when interpreting, representating, and just thinking about theories.
+
+
+
 
 A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
 
