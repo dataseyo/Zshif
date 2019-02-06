@@ -25,21 +25,14 @@ Numerical Relativity:
 [Link](url) and ![Image](src)
 ```
 
-## What else?
-```markdown
-
-.
-.
-.
-.
-.
-.
-.
-...........
-
-
-
 ```
+## What else?
+```
+I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. 
+
+
+
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
