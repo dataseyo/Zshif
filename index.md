@@ -2,12 +2,13 @@
 
 
 ## Research
+My research interests are primarily in philosophy of physics, climate science, and social epistemology.
 ```markdown
-My research interests are primarily in 
-philosophy of physics, climate science, 
+My research interests are primarily in philosophy of physics, climate science, 
 and social epistemology. 
 
-I 
+Here's a poster I presented at the PSA 2018: [Structural Realism](Zshif/SR pres.pdf)
+      
 
 
 
