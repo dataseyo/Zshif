@@ -11,8 +11,8 @@ I'm interested primarily in philosophy of physics, philosophy of science more ge
 In  the future, I hope to work on:
 
 - making the notion of *robustness* more rigorous across the physical sciences, especially in QFT and stochastic/ensemble climate models. Building an analogy between robust entities/processes in biology and those in physics also appears potentially fruitful.
+- studying the relation between dualities (e.g., AdS/CFT) and the renormalization group (or other frameworks that QFT has borrowed from condensed matter physics). This would likely involve some talk of dualities in the context of the recent theoretical equivalence literature in philosophy. 
 - making sense of what *an ontology indexed to scales* (or, per Ladyman, a *scale-relative ontology*) is supposed to mean, if there is sense to be made of it. 
-- studying the behavior of laypeople and experts in discourse about some technical domain like climate science. 
 - teasing out the physical significance of the large D limit of general relativity. 
 
 A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
