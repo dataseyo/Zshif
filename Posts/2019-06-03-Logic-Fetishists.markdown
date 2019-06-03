@@ -17,6 +17,8 @@ Formal logic deals strictly with the form of arguments, with the relation betwee
 1. If my friend is in jail, then it will rain.
 2. My friend is in jail.
 3. Therefore, it will rain.
+
+
 .
 1. If your house is on fire, then you should probably leave.
 2. Your house is on fire.
