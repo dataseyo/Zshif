@@ -1,40 +1,10 @@
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a class="active" href="#home">https://litgenstein.github.io/Zshif/</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-
-
-.topnav {
-  background-color: #333;
-  overflow: hidden;
-}
-
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-
-<center><font size="50">Zachary Shifrel</font></center>
 
 
 ## Research
