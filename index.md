@@ -1,10 +1,3 @@
-
-<div class="topnav">
-  <a class="active" href="#">Home</a>
-  <a href="Posts/2019-06-03-Logic-Fetishists.html">Blog</a>
-</div>
-
-
 ## Research
 I'm interested primarily in philosophy of physics, philosophy of science more generally, climate science, and social epistemology. My research currently involves:
 - extending effective realism into the domain of QFT in curved spacetime. 
