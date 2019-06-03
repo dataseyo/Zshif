@@ -19,10 +19,6 @@ In  the future, I hope to work on:
 - making sense of what *an ontology indexed to scales* (or, per Ladyman, a *scale-relative ontology*) is supposed to mean, if there is sense to be made of it. 
 - teasing out the physical significance of the large D limit of general relativity. 
 
-<A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)>
-
-<A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/read/ysyfnnqpzwsr)>
-
 ## Projects
 
 **Numerical Relativity:** a few students and a professor from the philosophy, computer science, engineering, and physics departments working on software for extracting information about the source (mostly black holes) of chirps. We're also interested in expanding the libraries used for dealing with numerical relativistic simulations and matching methods. 
@@ -32,7 +28,7 @@ In  the future, I hope to work on:
 
 ## What else?
 
-I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. [a relative link](Posts/2019-06-03-Logic-Fetishists.markdown)
+I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. 
 
  
 ```markdown
