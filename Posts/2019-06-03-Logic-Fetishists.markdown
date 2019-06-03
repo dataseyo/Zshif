@@ -12,14 +12,15 @@ Suppose that someone accuses you of being illogical, alleging that you should—
 
 (skip this if you know elementary propositional logic)
 
-Formal logic deals strictly with the form of arguments, with the relation between premises and conclusions. An argument is any set of premises with a conclusion. Consider the following arguments:
+Formal logic deals strictly with the form of arguments, with the relation between premises and conclusions. An argument is any set of premises with a conclusion. Consider the following arguments (*) and (^):
 
+(*)
 1. If my friend is in jail, then it will rain.
 2. My friend is in jail.
 3. Therefore, it will rain.
 
 
-.
+(^)
 1. If your house is on fire, then you should probably leave.
 2. Your house is on fire.
 3. Therefore, you should probably leave. (^)
@@ -29,3 +30,7 @@ Logic is blind to what all of these sentences mean in natural language: it sees 
 1. If P, then Q
 2. P
 3. Therefore, Q
+
+The logician has in her toolkit various methods to determine whether an argument is valid, or whether it is impossible for all the premises to be true and the conclusion false. In a valid argument, the conclusion is entailed by the premises. That is, if we assume that the premises are true, then the conclusion must follow. Both (*) and (^), as well as their more general P-and-Q form, are valid. 
+
+
