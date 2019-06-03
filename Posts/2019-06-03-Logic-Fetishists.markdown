@@ -1,8 +1,3 @@
-<div class="topnav">
-  <a class="active" href="#">Home</a>
-  <a href="Posts/2019-06-03-Logic-Fetishists.html">Blog</a>
-</div>
-
 ---
 layout: post
 title:  "The Logic Fetishists!"
@@ -10,6 +5,11 @@ date:   2019-06-03 04:19:54 -0400
 categories: jekyll update
 ---
 
+
+<div class="topnav">
+  <a class="active" href="#">Home</a>
+  <a href="Posts/2019-06-03-Logic-Fetishists.html">Blog</a>
+</div>
 
 
 
