@@ -33,4 +33,22 @@ Logic is blind to what all of these sentences mean in natural language: it sees 
 
 The logician has in her toolkit various methods to determine whether an argument is valid, or whether it is impossible for all the premises to be true and the conclusion false. In a valid argument, the conclusion is entailed by the premises. That is, if we assume that the premises are true, then the conclusion must follow. Both (*) and (^), as well as their more general P-and-Q form, are valid. 
 
+Formal logic isn't all there is. Some valid arguments are bad, and many invalid arguments are good. While valid, (*) is not a very good argument. While invalid, many scientific arguments are good. A popular example: 
+
+1. The sun rose in the east yesterday.
+2. The sun rose in the east the day before yesterday. 
+3. The sun rose in the east the day before the day before yesterday.
+4. The sun rose...
+5. We have no good reason to expect that the sun will fail to rise tomorrow. 
+6. Therefore, the sun will rise in the east tomorrow. 
+
+Arguments of this form—inductive arguments—are always invalid. Yet we often believe that they give us good reason to accept the conclusion. Even so, logic is supposed to have some special force. It's good to provide a valid argument if possible. It's no doubt bad to purport to give a valid argument, yet give an invalid one.  If you set up a valid argument, all you have to do is prove that the premises are true! Further, the beliefs we hold have logical consequences. If I hold that P_1, ..., P_n are true, it might follow as a logical consequence that Q. If this is the case, I can't possibly deny Q while holding the former beliefs (of course, we can only set up reasonable expectations for the logical consequences that people should be aware of). The special force of logic is hopefully starting to make its way to the surface. Logic makes requirements of us. For example, I am only licensed to certain inferences. The premises of (^) license that I take the conclusion to be true, but it does not allow me to take the negation of the conclusion to be true. 
+
+What then of reason? What reason means is far less than transparent (and is the subject of much contention) than logic. The requirements that rationality imposes on us are similarly elusive. Let's suppose that reason means something like "the procedures we go through to determine what to believe." And let's also take for granted that requirements similar to the following do exist, for at least some must if the Logic Fetishist's theft of rationality is to have any force:
+
+- You should not believe both P and not-P.
+- You must A if you believe that you ought A.
+- You can only believe P if P is epistemically accessible to you (e.g., you're in a position to know that P).
+
+Assuming that rationality does impose these requirements on us, to fail to satisfy these requirements is to be irrational. So, both logic and reason rely on a very involved background literature in philosophy, and both make requirements of us.
 
