@@ -1,7 +1,7 @@
 
 <div class="topnav">
   <a class="active" href="#">Home</a>
-  <a href="#2019-06-03-Logic-Fetishists.html">Blog</a>
+  <a href="posts/2019-06-03-Logic-Fetishists.html">Blog</a>
 </div>
 
 
@@ -18,9 +18,9 @@ In  the future, I hope to work on:
 - making sense of what *an ontology indexed to scales* (or, per Ladyman, a *scale-relative ontology*) is supposed to mean, if there is sense to be made of it. 
 - teasing out the physical significance of the large D limit of general relativity. 
 
-A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)
+<A poster I presented at the PSA 2018: [Structural Realism](https://drive.google.com/file/d/15Sy7E3FPuADUNg7Ir8AZpS0IM2pwMSoo/view?usp=sharing)>
 
-A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/read/ysyfnnqpzwsr)
+<A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/read/ysyfnnqpzwsr)>
 
 ## Projects
 
