@@ -1,6 +1,6 @@
 
 <div class="topnav">
-  <a class="active" href="#https://litgenstein.github.io/Zshif/">Home</a>
+  <a class="active" href="#">Home</a>
   <a href="#Nut">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
