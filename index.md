@@ -28,7 +28,7 @@ A work-in-progress paper on effective realism: [EFT](https://www.overleaf.com/re
 
 ## What else?
 
-I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. 
+I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. [a relative link](2019-06-03-Logic-Fetishists.markdown)
 
  
 ```markdown
