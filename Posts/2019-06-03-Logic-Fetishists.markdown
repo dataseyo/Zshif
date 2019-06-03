@@ -5,7 +5,7 @@ date:   2019-06-03 04:19:54 -0400
 categories: jekyll update
 ---
 
-
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
 Suppose that someone accuses you of being illogical, alleging that you should—as they do—use reason to come to your senses. You should invoke facts. You should stop being emotional and instead appeal to logic. What do they mean by logic? Are they accusing you of having constructed deductively invalid arguments? Does one of your inferences have an improper structure? Whatever they mean, logic and reason have some special sort of force. It's supposed to bad to be illogical, to be unresponsive to reason. I hope to show what this special force is and where it comes from. More importantly, I'll consider your accuser's attempted theft of this special force. Your accuser belongs to an increasingly popular group that I will call Logic Fetishists. But first, what even is logic?
 
 ## A Very Brief Introduction to Logic
@@ -58,4 +58,4 @@ When arguing with someone, we usually hope to establish that some proposition P 
 
 But these constraints are only present when the usage of "logic" and "reason" are the usages salient in philosophical contexts. If in some context we find that logic means "what sounds right to Zach," we'll feel no normative pressure to constrain our arguments such that they sound right to Zach. The Logic Fetishist has stolen "logic" and "reason" without taking with them the special force. When the Logic Fetishist tells us that our argument is illogical, they do not mean that the premises fail to entail the conclusion. In their accusations of irrationality you will find that no substantive work has been done to establish that we've run afoul of, for example, the requirement to believe P only if P is epistemically accessible to us. They are not interested in the philosophical discourse surrounding rationality and what it requires of us. This would be okay but for the theft. Others also use "logic" in ways that fail to correspond exactly to what we mean by "logic" in philosophy (e.g., "your logic isn't convincing"). Unless we're snobs, we don't make anything of it. For they haven't tried to cut off the special force from its source. 
 
-In summary, logic and rationality impose normative constraints on the arguments we make and reasons we give in favor of believing some proposition. The legitimacy of the normative constraints is sourced in the rigorous background fields against which logic and rationality are defined.
+In summary, logic and rationality impose normative constraints on the arguments we make and reasons we give in favor of believing some proposition. The legitimacy of the normative constraints is sourced in the rigorous background fields against which logic and rationality are defined.</span>
