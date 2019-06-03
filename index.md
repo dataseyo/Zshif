@@ -1,4 +1,3 @@
-<center><font size="50">Zachary Shifrel</font></center>
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
@@ -34,6 +33,10 @@
   background-color: #4CAF50;
   color: white;
 }
+
+
+<center><font size="50">Zachary Shifrel</font></center>
+
 
 ## Research
 I'm interested primarily in philosophy of physics, philosophy of science more generally, climate science, and social epistemology. My research currently involves:
