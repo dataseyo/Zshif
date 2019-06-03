@@ -1,7 +1,7 @@
 
 <div class="topnav">
   <a class="active" href="#">Home</a>
-  <a href="posts/2019-06-03-Logic-Fetishists.html">Blog</a>
+  <a href="Posts/2019-06-03-Logic-Fetishists.html">Blog</a>
 </div>
 
 
