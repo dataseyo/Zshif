@@ -14,7 +14,7 @@ In  the future, I hope to work on:
 
 ## Projects
 
-**Numerical Relativity:** a few students and a professor from the philosophy, computer science, engineering, and physics departments working on software for extracting information about the source (mostly black holes) of chirps. We're also interested in expanding the libraries used for dealing with numerical relativistic simulations and matching methods. 
+**Numerical Relativity:** a few students and professors from the philosophy, computer science, engineering, and physics departments working on software for extracting information about the source (mostly black holes) of chirps. We're also interested in expanding the libraries used for dealing with numerical relativistic simulations and matching methods. 
 
 **EUGENE:** [Dynamical Kinds](https://github.com/jantzen/eugene)
 
