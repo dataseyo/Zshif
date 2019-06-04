@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134130651-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134130651-2');
+</script>
+
+
 ## Research
 I'm interested primarily in the philosophy of physics, philosophy of science more generally, climate science, and various areas in epistemology. My research currently involves:
 - extending effective realism into the domain of QFT in curved spacetime. 
