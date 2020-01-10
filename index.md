@@ -10,7 +10,11 @@
 
 
 ## Research
-I'm interested primarily in the philosophy of physics, philosophy of science more generally, climate science, and various areas in epistemology. My research currently involves:
+My research is focused at the interface of physics and philosophy, but I also care deeply about the foundations of climate science and environmental ethics, social epistemology, and broader issues in the philosophy of science. I’m currently writing on: 
+
+- how to extend the renormalization group from high energy physics and condensed matter physics into other fields.  
+
+
 - extending effective realism into the domain of QFT in curved spacetime. 
 - resolving the problem of model inconsistency across physics, but especially in spacetime theories.
 - carefully examining what philosophical work fields like numerical relativity can be made to do. They've traditionally been neglected as "tools that facilitate computation," but I think that Mark Wilson and others have made a good case for taking physics avoidance (and what facilitates it) seriously when interpreting, representating, and just thinking about theories. After all, such fields heavily contribute to the content of our theories: the field equations, when unsolved, aren't very useful. I'd also like to know whether or not the "computational context" of a theory, for lack of a better phrase, bears on how we conceptualize and interpret it. By "computational context" I mean something like "what it requires to make a theory work, to formulate and solve its core equations, to model the world with it, to specify its target systems, etc." 
