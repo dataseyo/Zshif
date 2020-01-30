@@ -1,13 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134130651-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-134130651-2');
-</script>
-
+<a href="https://litgenstein.github.io/Zshif.html/">Page 2</a>
 
 ## Research
 My research is focused at the interface of physics and philosophy, but I also care deeply about the foundations of climate science and environmental ethics, social epistemology, and broader issues in the philosophy of science. I’m currently writing on: 
