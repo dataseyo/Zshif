@@ -1,5 +1,7 @@
 <a href="https://litgenstein.github.io/Zshif.html/">Page 2</a>
 
+Zach Shifrel (old page) 
+
 ## Research
 My research is focused at the interface of physics and philosophy, but I also care deeply about the foundations of climate science and environmental ethics, social epistemology, and broader issues in the philosophy of science. I’m currently writing on: 
 
@@ -18,13 +20,7 @@ In  the future, I hope to work on:
 
 **Numerical Relativity:** a few students and professors from the philosophy, computer science, engineering, and physics departments working on software for extracting information about the source (mostly black holes) of chirps. We're also interested in expanding the libraries used for dealing with numerical relativistic simulations and matching methods. 
 
-**EUGENE:** [Dynamical Kinds](https://github.com/jantzen/eugene)
-
-
-## What else?
-
-I speak Korean and Japanese conversationally and somewhat professionally (though my proficiency in Japanese has been fading recently). I develop mostly in python and rarely in R. Besides standard numerical computing, I'm proficient in the various gravitational wave modules and in other popular physics modules. I've also worked with swarms, specifically in simulating their dynamics and processing related data. 
-
+**EUGENE:** [Dynamical Kinds](https://github.com/jantzen/eugene) 
  
 ```markdown
 Email: hanguk@vt.edu
